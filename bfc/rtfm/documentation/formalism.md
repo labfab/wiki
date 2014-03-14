@@ -1,0 +1,6 @@
+- ReST
+- Markdown
+- https://help.github.com/articles/github-flavored-markdown
+- http://johnmacfarlane.net/pandoc/
+- https://github.com/maximebf/beautiful-docs
+- https://readthedocs.org/

@@ -1,0 +1,4 @@
+- énergie consommée (machines + bloc froid + extraction)
+- environ, pour Speedy 300 60 Watt 1600 Watt, extracteur 1300 Watt -> compter 3K Watt
+- classe CO2 et fibré, classe 2 (type pointeur laser)
+- ouvert, classe 4, plus de 10 mWatt
