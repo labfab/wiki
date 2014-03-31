@@ -25,7 +25,7 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ### matin 
 - 9h/10h: nom - section
 - 10h/11h: Phillipe Pacotte (4 pièces imprimante PRUSA)
-- 11h/12h: 
+- 11h/12h: Phillipe Pacotte
 - 12h/13h: 
 - 13h/14h:
 
