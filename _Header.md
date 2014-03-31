@@ -1,5 +1,5 @@
-    Semaine 13 - Jeudi 27 Mars
+    Semaine 13 - Lundi 31 Mars
 
-    Le Lab est ouvert au public. 
-    Le monitorat des étudiants de l'EESAB n'est pas assuré aujourd'hui.
+    Le Lab est fermé au public. 
+    Le monitorat des étudiants de l'EESAB est assuré de 14h à 18h.
     LASERCUTTER is back !
