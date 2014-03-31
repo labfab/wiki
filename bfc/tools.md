@@ -68,14 +68,13 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 # Inventaire du 11 mars
 ## Arduino
 - Uno: 15
-- Leonardo: 7 
+- Leonardo: 9 
   - prêt nicolaschoron@gmail.com 1 leonardo + board (sans USB) jusqu'au 29 mars.
-  - 2 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
 - Duemilanove: 1
 - Esplora: 1
 - Due: 1
 - Mega: 0 
-- Lilypad: 3 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
+- Lilypad: 4
 - Nanode: 1 
 - Mega ADK: 1
 
@@ -99,7 +98,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Protoshield rev.A Olimex: 9
 - Protoshield Arduino: 1
 - Bluetooth Shield Seeedstudio: 1
-- Ethernet Shield: 0 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
+- Ethernet Shield: 0 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 13 avril
 - Motor Control Shield: 1
 - Motor Shield Adafruit: 01
 - [Keypad Shield DF Robot](http://www.dfrobot.com/index.php?route=product/product&filter_name=lcd%20sheld&product_id=51): 1
@@ -122,7 +121,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 
 ## FTDI
 - 3.3V: 3
-- 5V: 6 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
+- 5V: 7
 - AVR/ISP MK2: 2 (1 prêt à Laurent de Bug le 20/03/14)
 - USB to RS232: 3
 - USB JTAG Serial for Milkymist: 1 
@@ -188,7 +187,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Recepteur FR-Sky: 2
 - ESC: 4
 - Moteur Brushless 5010/14 360Kv: 4
-- CrazyFlie: 1 + joystick xbox -  1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
+- CrazyFlie: 1 -  1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 13 avril
 - manette X-Box: 1
 - Adaptateur Equalizer JST XH: 2
 - chargeur Ultramat 14+ Graupner: 2
