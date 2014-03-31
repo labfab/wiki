@@ -4,7 +4,7 @@
     http://day.arduino.cc/
 Une journée pour célébrer les dix ans d'arduino!
 Au programme (qui reste à préciser):
-- Atelier dataviz avec arduino (--> Thomas)
+- Bidouille glandouille (+ city naze ?) (--> Thomas)
 - Atelier monitoring de consommation (--> Baptiste)
 - Atelier d'initiation (--> Arthur)
 - Atelier...
@@ -19,13 +19,13 @@ Thomas Meghe
 Arthur Giguelay
 
 ##Où?
-A l'ancienne fac dentaire sur deux salles présentant ensemble environ 140 mètres carrés.
+A l'ancienne fac dentaire (2 place Pasteur Renes) sur deux salles présentant ensemble environ 140 mètres carrés.
 
 Contact sur les lieux: Sophie Ricard (06 09 95 78 44 / ufo@universiteforaine.fr )
 
 ##Quand?
 
-Les 28 et 29 Mars. 
+Les 28 et 29 Mars de 14h à 18h (les lieux sont cependant ouverts de 12h à 19h)
 
 ##Comment?
 

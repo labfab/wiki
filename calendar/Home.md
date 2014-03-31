@@ -14,7 +14,8 @@ Où bien même [maintenant](/calendar/current)
 - mercredi 2:
 - jeudi 3:
     - Resonate Belgrade du 03/04 au 05/04 -> Thomas
-- vendredi 4:
+- vendredi 4: 
+  - 12h30: Atelier public sur la documentation au Lab. Amphi ? Thomas, John
 - samedi 5:
   - [Melting Code](http://www.meltingcode.net/index.php?lang=fr) jusqu'au 17 avril. Snootlab à Bordeaux le samedi 5.
 - dimanche 6:carte blanche de l'orchestre symphonique de bretagne avec mudsikoboucle
@@ -22,11 +23,13 @@ Où bien même [maintenant](/calendar/current)
 #### Semaine 15:
 > Thématique: 2D, Découpe Laser, CNC
 
-- lundi 7:
+- lundi 7: Fin de matinée, Arthur Wolf livre les 2 dernières Asimov + après midi (BUG)
 - mardi 8:
 - mercredi 9: comité de pilotage LabFab - 9h30 - BUG -> John
 - jeudi 10: [Jardin Numérique 2014](/projects/jn3) 10 au 13 avril, Rennes
-- vendredi 11: Jardin Numérique 2014
+- vendredi 11: 
+  - Jardin Numérique 2014 - Arthur, Thomas
+  - 12h30 Amphi EESAB - Atelier 2D - Vue d'ensemble des outils - John, Alex ? 
 - samedi 12: JN 2014
 - dimanche 13: JN 2014
 
@@ -38,7 +41,9 @@ Où bien même [maintenant](/calendar/current)
 - mercredi 16:
 - jeudi 17:
 - vendredi 18:
-- samedi 19:
+  - 12h30 - Amphi EESAB - Algorithmique - John, Nicolas ?
+- samedi 19: Journée Céramique en archéologie - [Association Alter Ego Rennes](http://alteregorennes.canalblog.com/) - Villejean - 10h-18h - John si possible et Rémi 5D. Démo impression 3D 
+
 - dimanche 20:
 
 #### Semaine 17
@@ -54,6 +59,7 @@ Rue du taillis
   - Hackito Ergo Sum - http://2014.hackitoergosum.org/ du 24 au 26
   - Hacker Space Festival - http://2014.hackitoergosum.org/hsf/
 - vendredi 25:
+  - 12h30: Amphi EESAB - Atelier 3D Tour d'horizon du prototypage 3D - Corentin L., Hugues, Maden ?
 - samedi 26:
 - dimanche 27:
 
@@ -73,6 +79,7 @@ Rue du taillis
  - john ?
 
 - vendredi 2: 
+ - 12h30 - 13h45 - Amphi EESAB - Atelier documentation - John, Thomas
  - Stunfest Rennes
 - samedi 3:
  - Stunfest Rennes
@@ -80,22 +87,26 @@ Rue du taillis
  - Stunfest Rennes
 
 #### Semaine 19
+> Thématique: 2D, CNC
+
 - lundi 5: 
  - Ouishare Fest jusqu'au 7 - http://ouisharefest.com/  
- - atelier badge pro avec snootlab les 5 et 6, peu être 7.  john ?
+ - atelier badge pro avec snootlab les 5 et 6, peu être 7.  John ?
 - mardi 6:
 - mercredi 7:
 - jeudi 8:
 - vendredi 9:
-- samedi 10:
+ - 12h30 - 13h45 - Amphi EESAB - Atelier CNC - John, Thomas, ou invité(e)s
 - dimanche 11:
 
 #### Semaine 20
+> Thématique: Algo Proto
+
 - lundi 12:
 - mardi 13:
 - mercredi 14:
 - jeudi 15:
-- vendredi 16:
+- vendredi 16: Atelier algorithmique/arduino -> Hugues
 - samedi 17: 
    - Open Bidouille Camp Brest - John
    - [Maker Faire Bay Area](http://makerfaire.com/bay-area-2014/call-for-makers/) - San Mateo - Nico, Richard
@@ -106,11 +117,13 @@ Rue du taillis
    - Open Bidouille Camp Bordeaux - qui ?
  
 #### Semaine 21
+> Thématique: 3D
+
 - lundi 19:
 - mardi 20:
 - mercredi 21-22-23 mai : demande d'intervention Breizhcamp 2014 à Rennes (ISTIC). - Alex, Laurent , Baptiste, John
 - jeudi 22:
-- vendredi 23:
+- vendredi 23: Atelier 3D - localisation à définir 
 - samedi 24: TedX Rennes - Nico
 - dimanche 25:
  
@@ -132,15 +145,19 @@ Rue du taillis
  - THSF
   
 #### Semaine 23
+> Thématique: La documentation
+
 - lundi 2:
 - mardi 3:
 - mercredi 4:
 - jeudi 5:
-- vendredi 6:
+- vendredi 6: Débarquement de Drones - Atelier découverte, gratuit, de 10h12h & 14h16 - Montage, configuration, décollage et démo. EESAB - Bénoni, John
 - samedi 7:
 - dimanche 8:
  
 #### Semaine 24
+> Thématique: 2D, CNC
+
 - lundi 9:
 - mardi 10:
 - mercredi 11:
@@ -152,6 +169,8 @@ Rue du taillis
 
 
 #### Semaine 25
+> Thématique: Algorithmique & Prototypage
+
 - lundi 16:
 - mardi 17:
 - mercredi 18:
@@ -161,16 +180,19 @@ Rue du taillis
 - dimanche 22: Maker Faire Paris - [inscriptions](https://docs.google.com/a/lefabshop.fr/forms/d/1Fldgi9T9dnXMYbwngx3O8Vx0NxftkYMYO9egLLYXyVI/viewform)
 
 #### Semaine 26
+> Thématique: 3D
+
 - lundi 23:
 - mardi 24:
 - mercredi 25:
 - jeudi 26:
-- vendredi 27:
+- vendredi 27: Atelier 3D amphi labfab
     - EHSM Hambourg du 27/06 au 29/06 2014. John & Thomas
 - samedi 28:
 - dimanche 29:
  
 #### Semaine 27
+> Thématique: La documentation
 - lundi 30
 
 ### Juillet
@@ -179,7 +201,7 @@ Rue du taillis
     - 2 au 8 juillet  Fab10 barcelona (Camille y va) . From Fab Labs to Fab Cities-> Hugues/John  ? 
 - jeudi 3:
 - vendredi 4:
-    - 4,5 et 6 juillet - Faites du Numérique, Brest 5-6/07 aux fabriques du Ponant - Baptiste/John
+    - 4,5 et 6 juillet - Forum des usages, Brest 5-6/07 aux fabriques du Ponant - Baptiste/John
 - samedi 5:
 - dimanche 6:
  
@@ -188,7 +210,7 @@ Rue du taillis
 - mardi 8:
 - mercredi 9:
 - jeudi 10:
-- vendredi 11:
+- vendredi 11: Pas d'atelier.
 - samedi 12:
 - dimanche 13:
  

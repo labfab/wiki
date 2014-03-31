@@ -19,15 +19,11 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
     EESAB: 1 HTC Lasercut 6840 (current status)    
 
 
-## Station de calcul
-    EESAB:
-    BUG:
+## Découpe fil chaud
+    EESAB: minicut 2d
 
-
-## Station de développement
-    EESAB:
-    BUG:
-
+## Divers
+- Loupe de précision: 1
 
 ## Station web
     EESAB:
@@ -72,12 +68,14 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 # Inventaire du 11 mars
 ## Arduino
 - Uno: 15
-- Leonardo: 9 - prêt nicolaschoron@gmail.com 1 leonardo + board (sans USB) jusqu'au 20 mars.
+- Leonardo: 7 
+  - prêt nicolaschoron@gmail.com 1 leonardo + board (sans USB) jusqu'au 29 mars.
+  - 2 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
 - Duemilanove: 1
 - Esplora: 1
 - Due: 1
 - Mega: 0 
-- Lilypad: 4
+- Lilypad: 3 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
 - Nanode: 1 
 - Mega ADK: 1
 
@@ -101,7 +99,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Protoshield rev.A Olimex: 9
 - Protoshield Arduino: 1
 - Bluetooth Shield Seeedstudio: 1
-- Ethernet Shield: 1
+- Ethernet Shield: 0 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
 - Motor Control Shield: 1
 - Motor Shield Adafruit: 01
 - [Keypad Shield DF Robot](http://www.dfrobot.com/index.php?route=product/product&filter_name=lcd%20sheld&product_id=51): 1
@@ -109,22 +107,23 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 
 ## Board
 - Mapleboard R5: 1
-- Intel Galileo: 1
-- Raspberry modèle B: 2
+- Intel Galileo: 1 (board disparue ?)
+- Raspberry modèle B : 0/2
+    - Corentin Derbré 2 jusqu'au 4 avril
 - PCDuino v2.0: 1
 - Zigduino R2: 1
 - smoothieboard v1.0: 2 
 
 ## Breadboards
 - Wanjie: 10
-- standard: 10
+- standard: 11
 - moyenne: 2
 - petite: 4
 
 ## FTDI
 - 3.3V: 3
-- 5V: 7
-- AVR/ISP MK2: 2
+- 5V: 6 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
+- AVR/ISP MK2: 2 (1 prêt à Laurent de Bug le 20/03/14)
 - USB to RS232: 3
 - USB JTAG Serial for Milkymist: 1 
 - USB Tiny ISP: 2
@@ -189,7 +188,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Recepteur FR-Sky: 2
 - ESC: 4
 - Moteur Brushless 5010/14 360Kv: 4
-- CrazyFlie: 1 - 1 chez Thomas Meghe
+- CrazyFlie: 1 + joystick xbox -  1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 3 avril
 - manette X-Box: 1
 - Adaptateur Equalizer JST XH: 2
 - chargeur Ultramat 14+ Graupner: 2
@@ -224,6 +223,50 @@ product_id=87#.UyBAXJjeilM): 1
 ## Adafruit
 - [Nunchucky](http://www.adafruit.com/products/345): 02
 - [PIR Sensor](http://adafru.it/189): 03
+
+
+## Tinkerkit
+### Pack 01
+- Shield: 01
+- Relay module
+- Mini servo
+- Green Led Module 5mm: 01
+- Green led Module 10mm: 01
+- Red Led Module 5mm: 01
+- Red Led Module 10mm: 01
+- Blue Led Module 5mm: 01
+- Blue Led Module 10mm: 01
+- Yellow Led Module 5mm: 01
+- Yellow Led Module 10mm: 01
+- Power Led Module
+- Touch Sensor Module
+- Button Module
+- LDR Sensor Module
+- Servo Module
+- Tilt Sensor Module
+- Mosfet Module
+- Thermistor Module
+- Linear Potentiometer
+- Rotary Potentiometer
+- Gyroscope 2 axis sensitivity 1X: 01
+- Gyroscope 2 axis sensitivity 4X: 01
+- 2/3 Axis Accelerometer: 01
+- Hall sensor module: 01
+
+### Pack 02
+- shield: 01
+- LDR (Light Dependant Resistor): 01
+- Rotary potentiometer
+- Green Led module 5mm: 01
+- Green Led module 10mm: 01
+- Red Led module 5mm: 01
+- Yellow Led module 5mm: 01
+- Button Module: 01
+- Tilt Sensor: 01
+- Relay module: 01
+- Thermistor Module: 01
+- Linear Potentiometer: 01
+- Touch Sensor: 01
 
 
 ## Autre

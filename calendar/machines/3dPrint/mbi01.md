@@ -8,25 +8,169 @@ Ces impressions doivent être lancées **avant 18h**.
 
 Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle semaine sommes nous](http://www.epochconverter.com/int/numeros-de-semaine-par-annee.php) ?
 
-# Semaine Paire 
+****
 
-| **Jour** | **Opérateur** | **9h-10h** | **10h-11h** | **11h-12h** | **12h-13h** | **13h-14h** | **14h-15h** | **15h-16h** | **16h-17h** | **Nocturne** |
-|----------|---------------|------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|--------------|
-| **lundi** | Moniteur présent de 14h à 18h | **Maintenance** | **machines** | **Nettoyage** | **Adsys** | 13.14 | 14.15 | 15.16 | 16.17 | nocturne |
-| **mardi** |  Moniteur présent de 9h à 12h et de 13h à 14h | VOUS ICI | 10.11 | 11.12 | **NoMono** | 13.14 | **NoMono** | **NoMono** | **NoMono** | nocturne | 
-| **mercredi** | Moniteur présent de 16h à 18h + membres | VOUS ICI | 10.11 | 11.12 | 12.13 | 13.14 | 14.15 | 15.16 | 16.17 | nocturne | 
-| **jeudi** | Moniteur présent de 9h à 12h et de 15h à 17h + membres | VOUS ICI | 10.11 | 11.12 | 12.13 | 13.14 | 14.15 | 15.16 | 16.17 | nocturne | 
-| **vendredi** | Moniteur présent de 9h à 14h | VOUS ICI | 10.11 | 11.12 | 12.13 | 13.14 | **NoMono** | **NoMono** | **NoMono** | nocturne | 
-| **samedi** | Pas de monitorat | **Pas encore possible pour l'instant.** | **Voir en mars** | |
+# Semaine Paire
+## lundi
+### matin
+- maintenance & entretien machines
 
+### aprem
+- 14h/15h: Lucie L 5D
+- 15h/16h: Lucie L 5D
+- 16h/17h: 
+- 17h/18h:
 
-# Semaine Impaire
+## mardi
+### matin 
+- 9h/10h: nom - section
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h:
 
-| **Jour** | **Opérateur** | **9h-10h** | **10h-11h** | **11h-12h** | **12h-13h** | **13h-14h** | **14h-15h** | **15h-16h** | **16h-17h** | **Nocturne** |
-|----------|---------------|------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|--------------|
-| **lundi** | Moniteur présent de 14h à 18h | **Maintenance** | **machines** | **Nettoyage** | **Adsys** | 13.14 | 14.15 | 15.16 | 16.17 | Remi 5D (pièce N°005)|
-| **mardi** |  Moniteur présent de 9h à 12h et de 13h à 14h | Reynald D | 10.11 | Yo 5D | Yo 5D | Yo 5D | Hihi | Yo 5D| Yo 5D | Remi 5D (pièce N°001) | 
-| **mercredi** | Moniteur présent de 16h à 18h + membres | Lala | Yo 5D | Yo 5D | Yo 5D | Yo 5D | Yo 5D | Yo 5D | Yo 5D | Remi 5D (pièce N°002)| 
-| **jeudi** | Moniteur présent de 9h à 12h et de 15h à 17h + membres | Yo 5D  | Yo 5D | 11.12 | 12.13 | 13.14 | 14.15 | 15.16 | corentin l. 3d| Remi 5D ((pièce N°006)| 
-| **vendredi** | Moniteur présent de 9h à 14h |juliette 1a | juliette 1a | juliette 1a | 12.13 | 13.14 | **NoMono** | **NoMono** | **NoMono** | Remi 5D (Raccord)| 
-| **samedi** | Pas de monitorat | **Pas encore possible pour l'instant.** | **Voir en mars** | |
+### aprem
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:
+
+## mercredi
+### matin 
+- 9h/10h: nom - section
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h:
+
+### aprem
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:
+
+## jeudi
+### matin 
+- 9h/10h: nom - section
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h:
+
+### aprem
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:
+
+## vendredi
+*Attention:* à partir du moi d'avril, les créneaux horaires sont réservés au public
+### matin 
+- 9h/10h: nom - section
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h:
+
+### aprem
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:
+
+## Samedi
+### matin 
+- 9h/10h: nom - section
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h:
+
+### aprem
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:
+
+****
+
+# Semaine impaire
+## lundi
+### matin
+- maintenance & entretien machines
+### aprem
+- 14h/15h: prénom section
+- 15h/16h: 
+- 16h/17h: 
+- 17h/18h:
+
+## mardi
+### matin 
+- 9h/10h: nom - section
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h:
+
+### aprem
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:
+
+## mercredi
+### matin 
+- 9h/10h: nom - section
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h:
+
+### aprem
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:
+
+## jeudi
+### matin 
+- 9h/10h: 
+- 10h/11h: Juliette 1A
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h: 
+
+### aprem
+- 14h/15h: 
+- 15h/16h: 
+- 16h/17h: 
+- 17h/18h: 
+
+## vendredi
+*Attention:* à partir d'avril 2014, les créneaux horaires du vendredi sont réservés au public
+### matin 
+- 9h/10h: 
+- 10h/11h: Juliette 1A
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h: 
+
+### aprem
+- 14h/15h: 
+- 15h/16h: 
+- 16h/17h:
+- 17h/18h:
+
+## Samedi
+### matin 
+- 9h/10h: nom - section
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h:
+
+### aprem
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:

@@ -43,10 +43,10 @@ Le semaine s'articule autour des thématiques suivantes:
 
     Autrement dit:
         lundi: 14h/18h - réservé aux étudiants EESAB
-        mardi: 9h/12h et 13h/14h - réservé aux étudiants EESAB
-        mercredi: 13h/14h et 16h/18h - tout public
-        jeudi: 9h/12h, 15h/17h - tout public
-        vendredi: 9h/14h - réservé aux étudiants EESAB
+        mardi: 9h/12h et 13h/14h - réservé aux étudiants EESAB sauf si privatisation du lab.
+        mercredi: 13h/14h et 16h/18h - réservé aux étudiants EESAB
+        jeudi: 9h/12h, 15h/17h - réservé aux étudiants EESAB
+        vendredi: 9h/14h - réservé au grand public
 
 ## Horaire stagiaire
      lundi: 14h/18h

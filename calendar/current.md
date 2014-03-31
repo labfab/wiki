@@ -46,10 +46,13 @@ Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calenda
 #### Semaine 12
 > Thématique: La Doc
 
-- lundi 17: inauguration Mooc. 
+- lundi 17:
+  - Inauguration Mooc.
+  - France 4 - Bionico
 - mardi 18: 
  - journée privative entreprise - John 9-13/14-18
  - France 4 - Bionico
+ - Salon prototypistes industriels (Nantes) - Thomas 9-18
 - mercredi 19:
  - France 4 - Bionico
 - jeudi 20:
@@ -62,14 +65,16 @@ Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calenda
 #### Semaine 13
 > Thématique: AlgoProto
 
-- lundi 24:
+- lundi 24: 
+  - Telecom Bretagne - 10h30 - Réunion MOOC Baptiste, Valérie, John
 - mardi 25: 
-    - conférence à L'IUTde Vannes sur l'impression 3D par le dépt informatique. NON -> makerspace 56
-    - 8h30-12h: CCI, avec l'ENS. Impression 3D - Amphi EESAB -> Odile/Stéphanie
+  - conférence à L'IUTde Vannes sur l'impression 3D par le dépt informatique. NON -> makerspace 56
+  - 8h30-12h: CCI, avec l'ENS. Impression 3D - Amphi EESAB -> Odile/Stéphanie
 - mercredi 26:
-- jeudi 27:
+- jeudi 27: TEDx Rennes Aurélie Verité 06 77 50 70 39
 - vendredi 28:
-- samedi 29: 
+- samedi 29:
+  - 9h/12h - France 2 TéléMatin (Hugues - Préfa) 
   - 14h/18h - Atelier Tails (https://tails.boum.org/) & Tor. Hackerspace Rennes
   - Arduino Day + LabFab Night + annonce nouveaux horaires
   - De 14h à 18h dans les locaux de l'ancienne fac dentaire - Pasteur
@@ -78,7 +83,7 @@ Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calenda
 #### Semaine 14
 > Thématique: Thématique Doc
 
-- lundi 31:
+- lundi 31: Flavie Ferchaud (flavie.ferchaud@gmail.com 06 83 99 49 78) entretiens acteurs / usagers du Lab en vue de la préparation d'un coloque sur l'émergence des tiers-lieux (focus LabFab) réseau d'acteurs, partenaires, inégalités numériques (+ spread the love)
 
     CHANGEMENT DES HORAIRES DU LABFAB
     Après recrutement(rentrée vacances de février ? )

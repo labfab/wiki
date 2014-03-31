@@ -24,7 +24,7 @@
 ### Osmocom
 
 ### Autre
- - lampe frontale petzel
+- lampe frontale petzel
 - http://www.oculusvr.com/
 - http://www.taylorkillian.com/2013/08/sdr-showdown-hackrf-vs-bladerf-vs-usrp.html
 - http://www.nuand.com/blog/product/bladerf-x115/
@@ -75,7 +75,6 @@
 
 # Software
 - 2 PCs station travail (3D, calcul, VM)
-- porte manteau
 - rack câbles
 
 
