@@ -39,7 +39,7 @@ Où bien même [maintenant](/calendar/current)
 - lundi 14:
 - mardi 15: résultats Dataplus + conf de presse à Rennes -> Hugues
 - mercredi 16:
-- jeudi 17:
+- jeudi 17: 9h15 - Leroy Merlin - John
 - vendredi 18:
   - 12h30 - Amphi EESAB - Algorithmique - John, Nicolas ?
 - samedi 19: Journée Céramique en archéologie - [Association Alter Ego Rennes](http://alteregorennes.canalblog.com/) - Villejean - 10h-18h - John si possible et Rémi 5D. Démo impression 3D 
