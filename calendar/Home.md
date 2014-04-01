@@ -132,7 +132,7 @@ Rue du taillis
 - mardi 27:
 - mercredi 28:
 - jeudi 29:
- - [THSF](http://thsf.tetalab.org/2014/), Toulouse, 29 mai - 1er juin -> John & Thomas le jeudi ?
+ - [THSF](http://thsf.tetalab.org/2014/), Toulouse, 29 mai - 1er juin -> John,Thomas & corentin lb le jeudi ?
 - vendredi 30:
  - THSF, [Call For Paper](http://cfp.tetalab.org/en/thsf2014/cfp/session/new) avant le 2 mars
 - samedi 31:
