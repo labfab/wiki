@@ -16,7 +16,7 @@ Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calenda
   - 12h30: Atelier public sur la documentation au Lab. Amphi ? Thomas, John
 - samedi 5:
   - [Melting Code](http://www.meltingcode.net/index.php?lang=fr) jusqu'au 17 avril. Snootlab à Bordeaux le samedi 5.
-- dimanche 6:carte blanche de l'orchestre symphonique de bretagne avec mudsikoboucle
+- dimanche 6:carte blanche de l'orchestre symphonique de bretagne avec muziko*boucle
 
 #### Semaine 15:
 > Thématique: 2D, Découpe Laser, CNC
