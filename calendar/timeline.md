@@ -30,12 +30,10 @@ Le semaine s'articule autour des thématiques suivantes:
         Lectures & présentations de projets-> 4e vendredi
 
 ## Horaire moniteurs
-    Mono 1 (Corentin Lebris):
-        lundi: 14h/18h -> Rhino 3D
-        mardi: 13h/14h
-        mercredi: 13h/14h
-        vendredi:  9h/14h -> 3D Rhino 3h
-
+    Mono 1 (Corentin Le bris):
+        lundi: 14h/18h -> Rhino 3D // prototypage labfab
+        mercredi: 13h/14h -> prototypage labfab
+        vendredi:  9h/14h -> ouverture publique
     Mono 2 (Corentin Derbré):
         mardi: 9h/12h
         mercredi: 16h/18h
