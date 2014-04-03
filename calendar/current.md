@@ -4,88 +4,68 @@ Au lab, ou ailleurs...
 
 Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calendar/timeline#Archives)**. Et ce que nous bricolerons **[après](/calendar/)**.
 
-### Mars
-
-   Entre le 3-14 mars (vacances scolaires) : 
-   demande d'atelier robotique espace jeunes de Liffré.
-   NON sauf si possible déplacement en mai, sinon prêt perso matos Hugues
-
-- samedi 1: [Le Hack Machine](http://www.digitalarti.com/fr/blog/artlab/le_hack_machine_2_le_samedi_11_janvier_2014) - Paris -> Thomas
-- dimanche 2:
-
-#### Semaine 10
-- lundi 3: 
-  - comité de pilotage 9h30/12h30 - BUG
-  - ouverture Labfab.io chambre des métiers ? -> richard
-  - ~reportage C+ 12h30 et au délà... - EESAB - Hugues~
-- mardi 4: 
-  - Arte [FutureMag](http://www.futuremag.fr/), réservation salle info Bionico
-  - London Hackerspace - Thomas
-- mercredi 5:
-- jeudi 6: 2 ans du FacLab - [Tale ronde](http://www.faclab.org/le-programme-des-deux-ans-cest-ici/ "« Récit croisés de la naissance de réseaux nationaux en europe. Rencontre entre l’Ecosse, l’Espagne et la France »") John
-- vendredi 7:
-- samedi 8:
-- dimanche 9:
-
-#### Semaine 11
-> Fermeture au public pour inventaire
-
-- lundi 10: 
-  - Arrivée de Thomas, nouvelle recrue salariée LabFab Étendu. 
-  - Fermeture sur la semaine pour inventaire et rangement.
-  - 16h. EESAB. Camille & Adrien - RDV John
-- mardi 11: Tournage MOOC Télécom Bretagne - Après midi - Baptiste, John 
-- mercredi 12:
-- jeudi 13:
-- vendredi 14:  
-  - Numa Paris - [Novosphere Table ronde](https://www.numaparis.com/Evenements/Objets-connectes-bien-au-dela-du-gadget) - Baptiste, Nico 
-  - Futuremag - Arte, tournage La Touche 
-- samedi 15:
-- dimanche 16:
-
-#### Semaine 12
+### Avril
+#### Semaine 14
 > Thématique: La Doc
 
-- lundi 17:
-  - Inauguration Mooc.
-  - France 4 - Bionico
-- mardi 18: 
- - journée privative entreprise - John 9-13/14-18
- - France 4 - Bionico
- - Salon prototypistes industriels (Nantes) - Thomas 9-18
-- mercredi 19:
- - France 4 - Bionico
-- jeudi 20:
-- vendredi 21: 
-  - Soirée GraphLab MJC Antipode (Musicoboucle dans le cadre d'Urbaine) - Nico & Corentin
-  - [Hackaton Snootlab](http://hackathoon.snootlab.com/) - Toulouse jusqu'au 23 mars 2014
-- samedi 22:
-- dimanche 23:
+- mardi 1:
+- mercredi 2:
+- jeudi 3:
+    - Resonate Belgrade du 03/04 au 05/04 -> Thomas
+- vendredi 4: 
+  - 12h30: Atelier public sur la documentation au Lab. Amphi ? Thomas, John
+- samedi 5:
+  - [Melting Code](http://www.meltingcode.net/index.php?lang=fr) jusqu'au 17 avril. Snootlab à Bordeaux le samedi 5.
+- dimanche 6:carte blanche de l'orchestre symphonique de bretagne avec mudsikoboucle
 
-#### Semaine 13
+#### Semaine 15:
+> Thématique: 2D, Découpe Laser, CNC
+
+- lundi 7: Fin de matinée, Arthur Wolf livre les 2 dernières Asimov + après midi (BUG)
+- mardi 8:
+- mercredi 9: comité de pilotage LabFab - 9h30 - BUG -> John
+- jeudi 10: [Jardin Numérique 2014](/projects/jn3) 10 au 13 avril, Rennes
+- vendredi 11: 
+  - Jardin Numérique 2014 - Arthur, Thomas
+  - 12h30 Amphi EESAB - Atelier 2D - Vue d'ensemble des outils - John, Alex ? 
+- samedi 12: JN 2014
+- dimanche 13: JN 2014
+
+#### Semaine 16
 > Thématique: AlgoProto
 
-- lundi 24: 
-  - Telecom Bretagne - 10h30 - Réunion MOOC Baptiste, Valérie, John
-- mardi 25: 
-  - conférence à L'IUTde Vannes sur l'impression 3D par le dépt informatique. NON -> makerspace 56
-  - 8h30-12h: CCI, avec l'ENS. Impression 3D - Amphi EESAB -> Odile/Stéphanie
-- mercredi 26:
-- jeudi 27: TEDx Rennes Aurélie Verité 06 77 50 70 39
-- vendredi 28:
-- samedi 29:
-  - 9h/12h - France 2 TéléMatin (Hugues - Préfa) 
-  - 14h/18h - Atelier Tails (https://tails.boum.org/) & Tor. Hackerspace Rennes
-  - Arduino Day + LabFab Night + annonce nouveaux horaires
-  - De 14h à 18h dans les locaux de l'ancienne fac dentaire - Pasteur
-- dimanche 30:
+- lundi 14:
+- mardi 15: résultats Dataplus + conf de presse à Rennes -> Hugues
+- mercredi 16:
+- jeudi 17: 9h15 - Leroy Merlin - John
+- vendredi 18:
+  - 12h30 - Amphi EESAB - Algorithmique - John, Nicolas ?
+- samedi 19: Journée Céramique en archéologie - [Association Alter Ego Rennes](http://alteregorennes.canalblog.com/) - Villejean - 10h-18h - John si possible et Rémi 5D. Démo impression 3D 
 
-#### Semaine 14
-> Thématique: Thématique Doc
+- dimanche 20:
 
-- lundi 31: Flavie Ferchaud (flavie.ferchaud@gmail.com 06 83 99 49 78) entretiens acteurs / usagers du Lab en vue de la préparation d'un coloque sur l'émergence des tiers-lieux (focus LabFab) réseau d'acteurs, partenaires, inégalités numériques (+ spread the love)
+#### Semaine 17
+> Thématique: 3D, modélisation et impression
 
-    CHANGEMENT DES HORAIRES DU LABFAB
-    Après recrutement(rentrée vacances de février ? )
-    => application au 15 mars....
+- lundi 21:
+- mardi 22:
+- mercredi 23: 
+  - [Matel pour verre Sodocalcique ](http://www.matel.fr/) Hôtel Ibis Rennes-Beaulieu -> John
+Rue du taillis
+35510 Cesson Sevigne
+- jeudi 24:
+  - Hackito Ergo Sum - http://2014.hackitoergosum.org/ du 24 au 26
+  - Hacker Space Festival - http://2014.hackitoergosum.org/hsf/
+- vendredi 25:
+  - 12h30: Amphi EESAB - Atelier 3D Tour d'horizon du prototypage 3D - Corentin L., Hugues, Maden ?
+- samedi 26:
+- dimanche 27:
+
+#### Semaine 18
+> Thématique: La Doc
+
+- lundi 28:
+- mardi 29: Open Bidouille Camp St Brieuc - 
+- mercredi 30:
+
    
