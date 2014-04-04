@@ -19,7 +19,7 @@ Le **Lab**oratoire de **Fab**rication Francophone est un [FabLab](http://fr.wiki
 * Plan http://www.openstreetmap.org/node/2208334952#map=19/48.11465/-1.67689
 
 # Horaires
-Le LabFab est ouvert de **9h à 18h chaque mercredi et jeudi**.
+Le LabFab est ouvert de **9h à 18h chaque vendredi et samedi**.
 Consulter tout de même le [calendrier](calendar), car nous aimons aussi bricoder hors les murs. :) 
 Le reste de la semaine se divisant en temps scolaires, privatisation, logistique et événementiel.
 **Courant mars 2014, cette ouverture au public sera déplacée au vendredi et samedi**.
