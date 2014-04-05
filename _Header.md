@@ -1,4 +1,4 @@
-    Semaine 14 - vendredi 4 Avril
+    Semaine 14 - samedi 5 Avril
     
-    Le Lab est ouvert au public.
-    Le monitorat des étudiants de l'EESAB est assuré de 9h à 14h
+    Le Lab est ouvert au public de 9h à 18h
+   
