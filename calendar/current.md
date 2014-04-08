@@ -37,7 +37,7 @@ Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calenda
 
     Thématique: AlgoProto
 
-- lundi 14:
+- lundi 14: 10h00 tournage MOOC espace des sciences - john
 - mardi 15: résultats Dataplus + conf de presse à Rennes -> Hugues
 - mercredi 16:
 - jeudi 17: 9h15 - Leroy Merlin - John
