@@ -107,8 +107,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 ## Board
 - Mapleboard R5: 1
 - Intel Galileo: 1 (board disparue ?)
-- Raspberry modèle B : 0/2
-    - Corentin Derbré 2 jusqu'au 4 avril
+- Raspberry modèle B : 2/2
 - PCDuino v2.0: 1
 - Zigduino R2: 1
 - smoothieboard v1.0: 2 
