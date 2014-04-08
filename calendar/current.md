@@ -44,7 +44,7 @@ Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calenda
 - vendredi 18:
  - 12h30 - Amphi EESAB - Algorithmique - John, Nicolas ?
 
-- samedi 19: Journée Céramique en archéologie - Association Alter Ego Rennes - Villejean - 10h-18h - John si possible et Rémi 5D. Démo impression 3D
+- samedi 19: Journée Céramique en archéologie - Association Alter Ego Rennes - Villejean - 10h-18h - John + Rémi 5D. Démo impression 3D
 
 - dimanche 20:
 
