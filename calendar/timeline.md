@@ -5,7 +5,7 @@ Vous en aurez besoin pour réserver un créneau sur le planning de [découpe las
 
 **Brain Fitness Club**. Adhésion membres pour 2 heures par mois + compétences validées par ateliers (le samedi) pour l'utilisation machines. Paient consommables. Publication portfolio.
 
-**Money Maker**. Privatisation. Groupes. 525 euros demi journée, 1050 euros HT journée. Workshops. Formations. Veille. Collaboration et édition de projets.
+**Money Maker**. Privatisation. Groupes. 525 euros demi journée, 1050 euros TTC journée. Workshops. Formations. Veille. Collaboration et édition de projets.
 
 
 
