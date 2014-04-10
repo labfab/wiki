@@ -1,5 +1,5 @@
-    Semaine 15 - mercredi 9 Avril
+    Semaine 15 - Jeudi 10 Avril
     
     Le Lab est fermé au public. 
-    Moniteurs disponibles de 16h à 18h. Bonne journée!
+    Moniteurs disponibles de 9h à 12h et de 15h à 17h. Bonne journée!
    
