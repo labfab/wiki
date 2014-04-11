@@ -1,5 +1,5 @@
-    Semaine 15 - Jeudi 10 Avril
+    Semaine 15 - Vendredi 11 Avril
     
-    Le Lab est fermé au public. 
-    Moniteurs disponibles de 9h à 12h et de 15h à 17h. Bonne journée!
+    Le Lab est ouvert au public et participe au Jardin Numérique (Jardin Moderne Rennes) 
+    Moniteurs disponibles de 9h à 12h. Bonne journée!
    
