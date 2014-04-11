@@ -67,7 +67,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 
 # Inventaire du 11 mars
 ## Arduino
-- Uno: 15
+- Uno: 15 1 en prêt Yohann Cocourse
 - Leonardo: 9 
   - prêt nicolaschoron@gmail.com 1 leonardo + board (sans USB) jusqu'au 29 mars.
 - Duemilanove: 1
@@ -98,7 +98,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Protoshield rev.A Olimex: 9
 - Protoshield Arduino: 1
 - Bluetooth Shield Seeedstudio: 1
-- Ethernet Shield: 0 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 13 avril
+- Ethernet Shield: 0 - 1 Nicolas Ledez pour Arduino Day Amanlis - jusqu'au jeudi 13 avril 1 Yohann Cocourse
 - Motor Control Shield: 1
 - Motor Shield Adafruit: 01
 - [Keypad Shield DF Robot](http://www.dfrobot.com/index.php?route=product/product&filter_name=lcd%20sheld&product_id=51): 1
