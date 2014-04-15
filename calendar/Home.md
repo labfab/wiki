@@ -98,6 +98,7 @@ Où bien même [maintenant](/calendar/current)
 - mercredi 11:
 - jeudi 12:
 - vendredi 13:
+    - Amphi de l'EESAB pas disponible à priori. - John - Florian 5Com
     - Du 13 au 23 juin: Futur en Seine, Paris -> Personne pour l'instant 
 - samedi 14:
 - dimanche 15:
