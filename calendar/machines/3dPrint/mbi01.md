@@ -67,8 +67,8 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 *Attention:* à partir du moi d'avril, les créneaux horaires sont réservés au public
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: 
-- 11h/12h: 
+- 10h/11h: thomas rouxeville
+- 11h/12h: thomas rouxeville
 - 12h/13h: 
 - 13h/14h:
 
