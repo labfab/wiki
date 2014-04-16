@@ -52,10 +52,10 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ## jeudi
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: 
-- 11h/12h: 
-- 12h/13h: 
-- 13h/14h:
+- 10h/11h: Mathilda De La Santa Rosa 3D
+- 11h/12h: Mathilda De La Santa Rosa 3D
+- 12h/13h: Mathilda De La Santa Rosa 3D
+- 13h/14h: Mathilda De La Santa Rosa 3D
 
 ### aprem
 - 14h/15h:juliette 1a
