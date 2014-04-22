@@ -113,8 +113,8 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - 13h/14h:
 
 ### aprem
-- 14h/15h: Lucie L 5D
-- 15h/16h: Lucie L 5D
+- 14h/15h:
+- 15h/16h: 
 - 16h/17h:
 - 17h/18h:
 
@@ -127,10 +127,10 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - 13h/14h:
 
 ### aprem
-- 14h/15h:
-- 15h/16h:
-- 16h/17h:
-- 17h/18h:
+- 14h/15h: Lucie L 5D
+- 15h/16h: Lucie L 5D
+- 16h/17h: Lucie L 5D
+- 17h/18h: Lucie L 5D
 
 ## jeudi
 ### matin 
