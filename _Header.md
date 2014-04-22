@@ -1,5 +1,5 @@
-   Semaine 16 - Samedi 19 Avril
+   Semaine 17 - Mardi 22 Avril
    
-    Le Lab est ouvert au public (entrée rue St-Mélaine, suivre le fléchage !)
-    Le monitorat des étudiants de l'EESAB n'est pas assuré aujourd'hui.
+    Le Lab est fermé au public.
+    Le monitorat des étudiants de l'EESAB est assuré de 9h à 12h et de 13h à 14h.
     La laser est hors-service.
