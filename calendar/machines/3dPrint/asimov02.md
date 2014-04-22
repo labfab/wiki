@@ -16,16 +16,16 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - maintenance & entretien machines
 
 ### aprem
-- 14h/15h: Lucie L 5D
-- 15h/16h: Lucie L 5D
+- 14h/15h: 
+- 15h/16h: 
 - 16h/17h: 
 - 17h/18h:
 
 ## mardi
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: Arthur G
-- 11h/12h: Arthur G
+- 10h/11h: 
+- 11h/12h: 
 - 12h/13h: 
 - 13h/14h:
 
@@ -113,8 +113,8 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - 13h/14h:
 
 ### aprem
-- 14h/15h:
-- 15h/16h:
+- 14h/15h: Lucie L 5D
+- 15h/16h: Lucie L 5D
 - 16h/17h:
 - 17h/18h:
 
