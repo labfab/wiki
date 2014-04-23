@@ -134,7 +134,7 @@ Où bien même [maintenant](/calendar/current)
 ### Juillet
 - mardi 1:
 - mercredi 2:
-    - 2 au 8 juillet  Fab10 barcelona (Camille y va) . From Fab Labs to Fab Cities-> Hugues/John  ? 
+    - 2 au 8 juillet  Fab10 barcelona. From Fab Labs to Fab Cities-> Hugues
 - jeudi 3:
 - vendredi 4:
     - 4,5 et 6 juillet - Forum des usages, Brest 5-6/07 aux fabriques du Ponant - Baptiste/John
