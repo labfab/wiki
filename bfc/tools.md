@@ -73,8 +73,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Duemilanove: 1
 - Esplora: 1
 - Due: 1
-- Mega: 0 - 1 en prêt Hélène Grosier - Rennes 2 jusqu'au lundi 21 avril. 
-          - 1 en prêt Philippe Pacotte - Jusqu'au vendredi 18 avril
+- Mega: 1
 - Lilypad: 4
 - Nanode: 1 
 - Mega ADK: 1
