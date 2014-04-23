@@ -134,11 +134,11 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 
 ## jeudi
 ### matin 
-- 9h/10h: 
+- 9h/10h: Mathilde 3D
 - 10h/11h: Juliette 1A
-- 11h/12h: 
-- 12h/13h: 
-- 13h/14h: 
+- 11h/12h: Mathilde 3D
+- 12h/13h: Mathilde 3D
+- 13h/14h:Mathilde 3D 
 
 ### aprem
 - 14h/15h: 
