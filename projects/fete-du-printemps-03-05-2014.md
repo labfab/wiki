@@ -5,7 +5,7 @@ A l'occasion de la fête du printemps, [les colibris du pays de rennes](http://c
 Rdv fixé le 3 mai 2014 à 11h00.
 
 ##Comment?
-Une imprimante 3D et cinq postes à souder (fer + tresse) seront mobilisés pour réparer/bidouiller/recycler/transformer. 
+Le kakemono, une imprimante 3D et cinq postes à souder seront mobilisés pour réparer/bidouiller/recycler/transformer. 
 
 ###Liste de matériel:
 Asimov 2
@@ -14,3 +14,4 @@ Tournvis cruciformes (x5)
 Pinces coupantes (x5) 
 Pinces plates (x5)
 Cinq fers à souder + étain + support
+Kakemono
