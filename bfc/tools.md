@@ -73,7 +73,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Duemilanove: 1
 - Esplora: 1
 - Due: 1
-- Mega: 1
+- Mega: 1 (en prêt jusqu'au 28/04 Philippe Pacotte)
 - Lilypad: 4
 - Nanode: 1 
 - Mega ADK: 1
