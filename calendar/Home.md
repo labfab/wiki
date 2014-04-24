@@ -86,6 +86,7 @@ Où bien même [maintenant](/calendar/current)
 - mardi 3:
 - mercredi 4:
 - jeudi 5:
+   - 18h-19h: Restitution Geekpicnic Moscou avec Bionico - Auditorium EESAB
 - vendredi 6: Débarquement de Drones - Atelier découverte, gratuit, de 10h12h & 14h16 - Montage, configuration, décollage et démo. EESAB - Bénoni, John
 - samedi 7:
 - dimanche 8:
