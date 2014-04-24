@@ -59,9 +59,11 @@ Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calenda
 - jeudi 24:
  - Hackito Ergo Sum - http://2014.hackitoergosum.org/ du 24 au 26
  - Hacker Space Festival - http://2014.hackitoergosum.org/hsf/
+ - Entretien avec Nicolas Malgonne (animateur multimédia - MJC Grand Cordel) -> Arthur
 - vendredi 25:
+ - Arthur absent le matin (rdv perso)
  - 12h30: Amphi EESAB - Atelier 3D Tour d'horizon du prototypage 3D - Corentin L., Hugues, Maden ?
-- samedi 26:
+- samedi 26: [MKS Fest](https://www.yesgolive.com/yy-fest/mks-fest), Nicolas Huchet et Arthur présentent le labfab et le projet Bionico. organisation de l'intervention [sur cette page](/projects/MKS-FEST-26-04-2014)
 - dimanche 27:
 
 ## Semaine 18
