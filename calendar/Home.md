@@ -8,6 +8,8 @@ Où bien même [maintenant](/calendar/current)
    
 ### Mai
 
+> présence moniteur (Corentin D) pendant la semaine des vacances
+
 - jeudi 1:
  - http://www.foiredeparis.fr/Programme-spectacles/Progres-innovation/Le-Ouishare-Village
  - jusqu'au 4 mai, puis Oui Share festival dans la foulée. Atelier Badge gd public avec snootlab.
