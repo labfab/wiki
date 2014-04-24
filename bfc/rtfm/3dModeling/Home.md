@@ -11,6 +11,7 @@ _« Le vrai problème n’est pas de savoir si les machines pensent, mais de sav
 
 ### Outils propriétaires et gratuits
 - Tinkercad
+- 123D Design
 - Sketchup
 
 ### Outils propriétaires et payants
