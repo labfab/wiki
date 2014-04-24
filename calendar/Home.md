@@ -124,6 +124,7 @@ Où bien même [maintenant](/calendar/current)
 - lundi 23:
 - mardi 24:
 - mercredi 25:
+  - visite Lab Mairie de Rennes - 14h - Hugues
 - jeudi 26:
 - vendredi 27: Atelier 3D amphi labfab
     - EHSM Hambourg du 27/06 au 29/06 2014. John & Thomas
