@@ -1,4 +1,4 @@
-# Impression 3d
+# Impression 3D
 
 _« Les premiers 90% du code prennent les premiers 90% du temps de développement. Les 10% restants prennent les autres 90% du temps de développement »_ - **Tom Cargill**
 
