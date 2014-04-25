@@ -108,7 +108,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Mapleboard R5: 1
 - Intel Galileo: 1 (board disparue ?)
 - Raspberry modèle B : 2/2
-- PCDuino v2.0: 1
+- PCDuino v2.0: 0 - Prêt amed.noumane@gmail.com jusqu'au 7 avril (+ breadboard, cable USB mini et connectique)
 - Zigduino R2: 1
 - smoothieboard v1.0: 2 
 
