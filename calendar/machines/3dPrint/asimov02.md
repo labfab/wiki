@@ -164,13 +164,13 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ## Samedi
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: 
-- 11h/12h: 
-- 12h/13h: 
-- 13h/14h:
+- 10h/11h: Phil
+- 11h/12h: Phil
+- 12h/13h: Phil
+- 13h/14h: Phil
 
 ### aprem
-- 14h/15h:
-- 15h/16h:
-- 16h/17h:
-- 17h/18h:
+- 14h/15h: Phil
+- 15h/16h: Phil
+- 16h/17h: Phil
+- 17h/18h: Phil
