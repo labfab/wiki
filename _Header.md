@@ -1,6 +1,5 @@
-Semaine 17 -Samedi 26 Avril
-   
-Le Lab est ouvert au public (9h-12h30 / 14h-18h)
+Semaine 18 - lundi 28 avril   
+Le Lab est fermé au public
 
 Le monitorat des étudiants de l'EESAB n'est pas assuré.
 
