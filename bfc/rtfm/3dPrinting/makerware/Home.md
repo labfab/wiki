@@ -1,7 +1,11 @@
 # Utilisation de MakerWare
 
+## Pourquoi
+
 L'impression sur la Replicator 2X est possible pour l'instant que sur l'extrudeur de gauche.
 Principal problème, l'extrudeur par défaut est celui de droite. Tu vas voir comment changer ça.
+
+## Comment
 
 Ouvrir MakerWare
 
