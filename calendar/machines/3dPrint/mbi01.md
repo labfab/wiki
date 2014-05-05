@@ -99,8 +99,8 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ### matin
 - maintenance & entretien machines
 ### aprem
-- 14h/15h: prénom section
-- 15h/16h: 
+- 14h/15h: Rémi 5D
+- 15h/16h: Rémi 5D
 - 16h/17h: 
 - 17h/18h:
 
@@ -120,9 +120,9 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 
 ## mercredi
 ### matin 
-- 9h/10h: nom - section
-- 10h/11h: 
-- 11h/12h: 
+- 9h/10h: 
+- 10h/11h:Rémi 5D 
+- 11h/12h: Rémi 5D
 - 12h/13h: 
 - 13h/14h:
 
