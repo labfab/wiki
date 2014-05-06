@@ -1,5 +1,5 @@
-Semaine 18 - Samedi 3 mai 
-Le Lab est ouvert au public
+Semaine 19 - Mardi 6 mai 
+Le Lab est fermé au public
 
 Le monitorat des étudiants de l'EESAB n'est pas assuré.
 
