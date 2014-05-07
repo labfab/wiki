@@ -229,8 +229,8 @@ Où bien même [maintenant](/calendar/current)
 - Lift Marseille ? Richard
 - Événement numérique Chatelaudren (Sylvain Legal), côtes d'armor, vendredi/samedi - Hugues ?
 - mercredi 1:
-- jeudi 2:
-- vendredi 3:
+- jeudi 2: BDI - 360 possible, l'innov en mode BZH
+- vendredi 3: BDI - 360 possible, l'innov en mode BZH
 - samedi 4:: 
 - dimanche 5:
  
