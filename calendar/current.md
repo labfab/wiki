@@ -4,72 +4,72 @@ Au lab, ou ailleurs...
 
 Vous pourriez aussi vouloir consulter ce que nous bricolions  **[avant](/calendar/timeline#Archives)**. Et ce que nous bricolerons **[après](/calendar/)**.
 
-## Avril
-### Semaine 14
 
-    Thématique: La Doc
+### Mai
 
-- mardi 1:
-- mercredi 2:
-- jeudi 3:
- - Resonate Belgrade du 03/04 au 05/04 -> Thomas
-- vendredi 4:
- - 12h30: Atelier public sur la documentation au Lab. Amphi ? Thomas, John
-- samedi 5:
-  - Melting Code jusqu'au 17 avril. Snootlab à Bordeaux le samedi 5.
-- dimanche 6:carte blanche de l'orchestre symphonique de bretagne avec mudsikoboucle
+> présence moniteur (Corentin D) pendant la semaine des vacances
 
-## Semaine 15:
+- jeudi 1:
+ - http://www.foiredeparis.fr/Programme-spectacles/Progres-innovation/Le-Ouishare-Village
+ - jusqu'au 4 mai, puis Oui Share festival dans la foulée. Atelier Badge gd public avec snootlab.
+ - john ?
 
-    Thématique: 2D, Découpe Laser, CNC
+- vendredi 2: 
+ - 12h30 - 13h45 - Amphi EESAB - Atelier documentation - John, Thomas
+ - Stunfest Rennes
+- samedi 3:
+ - Stunfest Rennes
+- dimanche 4:
+ - Stunfest Rennes
 
-- lundi 7: Fin de matinée, Arthur Wolf livre les 2 dernières Asimov + après midi (BUG)
-- mardi 8:
-- mercredi 9: comité de pilotage LabFab - 9h30 - BUG -> John
-- jeudi 10: Jardin Numérique 2014 10 au 13 avril, Rennes
-- vendredi 11:
- - Jardin Numérique 2014 - Arthur, Thomas
- - 12h30 Amphi EESAB - Atelier 2D - Vue d'ensemble des outils - John, Alex ?
-- samedi 12: JN 2014
-- dimanche 13: JN 2014
+#### Semaine 19
+> Thématique: 2D, CNC
 
-## Semaine 16
+- lundi 5: 
+ - Ouishare Fest jusqu'au 7 - http://ouisharefest.com/  
+ - atelier badge pro avec snootlab les 5 et 6, peu être 7.  John ?
+- mardi 6:
+- mercredi 7:
+- jeudi 8: EESAB Fermée
+- vendredi 9: Le lab fait le pont
+- dimanche 11: 
 
-    Thématique: AlgoProto
+#### Semaine 20
+> Thématique: Algo Proto
 
-- lundi 14: 10h00 tournage MOOC espace des sciences - john
-- mardi 15: résultats Dataplus + conf de presse à Rennes -> Hugues
-- mercredi 16:
-- jeudi 17: 9h15 - Leroy Merlin - John
-- vendredi 18:
- - 12h30 - Amphi EESAB - Algorithmique - John, Nicolas ?
+- lundi 12:
+- mardi 13:
+- mercredi 14:
+- jeudi 15:
+- vendredi 16: Atelier algorithmique/arduino -> Hugues
+- samedi 17: 
+   - Open Bidouille Camp Brest - John
+   - [Maker Faire Bay Area](http://makerfaire.com/bay-area-2014/call-for-makers/) - San Mateo - Nico, Richard
+   - Open Bidouille Camp Bordeaux - qui ? Snootlab y sera le samedi-dimanche
+- dimanche 18:
+   - Open Bidouille Camp Brest - John
+   - Maker Faire Bay Area - San Mateo - Nico, Richard
+   - Open Bidouille Camp Bordeaux - qui ?
+ 
+#### Semaine 21
+> Thématique: 3D
 
-- samedi 19: Journée Céramique en archéologie - Association Alter Ego Rennes - Villejean - 10h-18h - John + Rémi 5D. Démo impression 3D
-
-- dimanche 20:
-
-## Semaine 17
-
-    Thématique: 3D, modélisation et impression
-
-- lundi 21:
-- mardi 22:
-- mercredi 23:
- - Matel pour verre Sodocalcique Hôtel Ibis Rennes-Beaulieu -> John Rue du taillis 35510 Cesson Sevigne
-- jeudi 24:
- - Hackito Ergo Sum - http://2014.hackitoergosum.org/ du 24 au 26
- - Hacker Space Festival - http://2014.hackitoergosum.org/hsf/
- - Entretien avec Nicolas Malgonne (animateur multimédia - MJC Grand Cordel) -> Arthur
-- vendredi 25:
- - Arthur absent le matin (rdv perso)
- - 12h30: Amphi EESAB - Atelier 3D Tour d'horizon du prototypage 3D - Corentin L., Hugues, Maden ?
-- samedi 26: [MKS Fest](https://www.yesgolive.com/yy-fest/mks-fest), Nicolas Huchet et Arthur présentent le labfab et le projet Bionico. organisation de l'intervention [sur cette page](/projects/MKS-FEST-26-04-2014)
-- dimanche 27:
-
-## Semaine 18
-
-    Thématique: La Doc
-
-- lundi 28:
-- mardi 29: Open Bidouille Camp St Brieuc -
-- mercredi 30:
+- lundi 19:
+- mardi 20:
+- mercredi 21-22-23 mai : demande d'intervention Breizhcamp 2014 à Rennes (ISTIC). - Alex, Laurent , Baptiste, John
+- jeudi 22:
+- vendredi 23: Atelier 3D - localisation à définir 
+- samedi 24: TedX Rennes - Nico
+- dimanche 25:
+ 
+#### Semaine 22
+- lundi 26:
+- mardi 27:
+- mercredi 28:
+- jeudi 29:
+ - [THSF](http://thsf.tetalab.org/2014/), Toulouse, 29 mai - 1er juin -> John,Thomas & corentin lb le jeudi ?
+- vendredi 30:
+ - THSF, [Call For Paper](http://cfp.tetalab.org/en/thsf2014/cfp/session/new) avant le 2 mars
+- samedi 31:
+ - [Festival D](http://www.festivald.net/), Nantes, du 31 mai - 1er juin -> John
+ - THSF
