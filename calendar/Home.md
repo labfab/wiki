@@ -31,10 +31,9 @@ Où bien même [maintenant](/calendar/current)
  - atelier badge pro avec snootlab les 5 et 6, peu être 7.  John ?
 - mardi 6:
 - mercredi 7:
-- jeudi 8:
-- vendredi 9:
- - 12h30 - 13h45 - Amphi EESAB - Atelier CNC - John, Thomas, ou invité(e)s
-- dimanche 11:
+- jeudi 8: EESAB Fermée
+- vendredi 9: Le lab fait le pont
+- dimanche 11: 
 
 #### Semaine 20
 > Thématique: Algo Proto
