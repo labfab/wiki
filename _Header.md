@@ -1,6 +1,5 @@
-Semaine 19 - Mercredi 7 mai 
+Semaine 19 - Lundi 12 mai 
 Le Lab est fermé au public
 
-Le monitorat des étudiants de l'EESAB n'est pas assuré.
-
-La laser est hors-service.
+Le monitorat des étudiants est assuré par
+Corentin Lebris, 5D, de 14 à 18h .
