@@ -1,4 +1,4 @@
-Semaine 20 - Lundi 12 mai - 
+Semaine 20 - Mardi 13 mai - 
 Le Lab est fermé au public
 
 Le monitorat des étudiants est assuré par
