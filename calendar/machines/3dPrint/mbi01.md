@@ -59,9 +59,9 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 
 ### aprem
 - 14h/15h:juliette 1a
-- 15h/16h:
-- 16h/17h:
-- 17h/18h:
+- 15h/16h: Etienne Szinte 5D
+- 16h/17h: Etienne Szinte 5D
+- 17h/18h: Etienne Szinte 5D
 
 ## vendredi
 *Attention:* à partir du moi d'avril, les créneaux horaires sont réservés au public
