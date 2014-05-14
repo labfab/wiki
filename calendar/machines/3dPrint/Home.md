@@ -6,7 +6,7 @@ Ne vous reste plus qu'à consulter la disponibilité de votre machine favorite.
 - [Makerbot-2X 01](mbi01)
 - [Asimov 01](asimov01)
 - [Asimov 02](asimov02)
-- [Asimov 03](asimov03) - **En place à l'atelier Urbain du Blosne jusqu'à la fin mars** - Hugues
+- [Asimov 03](asimov03)
 - [Foldarap 01](folda01)
 - [Foldarap 02](folda02)
 - [Makerbot Replicator Dual](mbiRepDual01) - **Hors Service** - John
