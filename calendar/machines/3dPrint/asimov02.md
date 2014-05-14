@@ -44,10 +44,10 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - 13h/14h:
 
 ### aprem
-- 14h/15h:
-- 15h/16h:
-- 16h/17h:
-- 17h/18h:
+- 14h/15h: Arthur G
+- 15h/16h: Arthur G
+- 16h/17h: Arthur G
+- 17h/18h: Arthur G
 
 ## jeudi
 ### matin 
