@@ -1,5 +1,5 @@
-Semaine 20 - Mercredi 14 mai - 
-Le Lab est fermé au public
+Semaine 20 - Vendredi 16 mai - 
+Le Lab est ouvert au public
 
 Le monitorat des étudiants est assuré par
-Corentin Derbré de 16h à 18h.
+Corentin Le Bris de 9h à 14h.
