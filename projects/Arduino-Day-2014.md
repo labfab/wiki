@@ -42,4 +42,3 @@ En amont:
 - Communication en amont et appel à coup de main sur la mail list du labfab (--> Baptiste)
 
 
-Merci de compléter ;-)
