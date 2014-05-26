@@ -107,3 +107,5 @@ Liste des ouvrages disponibles en libre consultation au lab.
 Coll. Textes à l'appui/bibliothèque du Mauss, éd. La Découverte, 2009, 231 p.
 
 - Sociologie de l'innovation, par **Gérald Gaglio** aux PUF 2012 (environ 80p.)
+
+- **Thanh Nghièm** sur hackyourphd.org: http://hackyourphd.org/tag/thanh-nghiem/
