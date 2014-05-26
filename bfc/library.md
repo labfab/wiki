@@ -99,3 +99,11 @@ Liste des ouvrages disponibles en libre consultation au lab.
 - n°32 Design For Makers
 - n°33 Software for Makers
 - n°35 The Danger Issue
+
+
+###Bibliographie générale
+
+- Donner et prendre. La coopération en entreprise, par **Norbert Alter**
+Coll. Textes à l'appui/bibliothèque du Mauss, éd. La Découverte, 2009, 231 p.
+
+-Sociologie de l'innovation, par **Gérald Gaglio** aux PUF 2012 (environ 80p.)
