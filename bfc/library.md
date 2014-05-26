@@ -106,4 +106,4 @@ Liste des ouvrages disponibles en libre consultation au lab.
 - Donner et prendre. La coopération en entreprise, par **Norbert Alter**
 Coll. Textes à l'appui/bibliothèque du Mauss, éd. La Découverte, 2009, 231 p.
 
--Sociologie de l'innovation, par **Gérald Gaglio** aux PUF 2012 (environ 80p.)
+- Sociologie de l'innovation, par **Gérald Gaglio** aux PUF 2012 (environ 80p.)
