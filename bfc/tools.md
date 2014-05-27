@@ -70,6 +70,7 @@ Vous pourriez aussi avoir besoin du [calendrier du temps machine](/calendar/mach
 - Uno: 15 1 en prêt Yohann Cocourse
 - Leonardo: 9 
   - prêt nicolaschoron@gmail.com 1 leonardo + board (sans USB) jusqu'au 29 mars.
+  - prêt fabienrichart@hotmail.fr 1 leonardo + starter kit. Jusqu'au lundi 30 juin.
 - Duemilanove: 1
 - Esplora: 1
 - Due: 1
