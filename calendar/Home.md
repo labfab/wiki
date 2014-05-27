@@ -43,7 +43,7 @@ Où bien même [maintenant](/calendar/current)
 - lundi 16:
 - mardi 17:
 - mercredi 18:
-- jeudi 19:
+- jeudi 19: 14h-17h30 visite élèves Lycée Les Rimains St-Malo contact Mme Demé 06 63 46 91 95
 - vendredi 20: 
 - samedi 21: [Maker Faire Paris](http://www.makerfaireparis.com/), au http://104.fr, en cloture de Futur en Seine.
 - dimanche 22: Maker Faire Paris - [inscriptions](https://docs.google.com/a/lefabshop.fr/forms/d/1Fldgi9T9dnXMYbwngx3O8Vx0NxftkYMYO9egLLYXyVI/viewform)
