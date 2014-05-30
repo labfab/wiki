@@ -28,6 +28,8 @@
 - Résa + sysadmin dédié
 - Installation Discourse https://github.com/discourse/discourse
 - Révision + calibration Asimov
+- run de prototypage team bionico pour aout 2014
+- edition online pour le brainfeeder pour les animateurs d'EPN.
 
 # @lasercut
 - Plotclock - http://www.thingiverse.com/thing:248009
