@@ -3,4 +3,3 @@ Le Lab est exceptionnellement fermé au public les 30 et 31 mai pour cause de TH
 http://www.labfab.fr/non-classe/week-end-lascension-vers-thsf-festival-d/
 
 Le monitorat des étudiants n'est donc pas assuré.
-john (atelier drones)
