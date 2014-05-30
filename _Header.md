@@ -1,6 +1,6 @@
-Semaine 20 -lundi 19 mai - 
-Le Lab est fermé au publc
+Semaine 20 -vendredi 30 mai - 
+Le Lab est exceptionnellement fermé au public les 30 et 31 mai pour cause de THSF et de festival D.
+http://www.labfab.fr/non-classe/week-end-lascension-vers-thsf-festival-d/
 
-Le monitorat des étudiants est assuré par
-Corentin Le Bris de n'est pas assuré (cause workshop)
+Le monitorat des étudiants n'est donc pas assuré.
 john (atelier drones)
