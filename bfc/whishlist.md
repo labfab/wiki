@@ -29,6 +29,7 @@
 - http://www.taylorkillian.com/2013/08/sdr-showdown-hackrf-vs-bladerf-vs-usrp.html
 - http://www.nuand.com/blog/product/bladerf-x115/
 - http://shop.airiclenz.com/product_info.php?currency=EUR&products_id=39  timelapse
+
 # Hardware
 - aspiro main pour lasercut - http://www.amazon.fr/Philips-FC6144-Aspirateur-MiniVac-rouge/dp/B000WPJSD8/ref=sr_1_16?s=kitchen&ie=UTF8&qid=1390838437&sr=1-16&keywords=aspirateur
 - PC station 3D/Calcul: 1528 euros
@@ -41,9 +42,9 @@
   - Disque dur: SSD 250 Go http://www.ldlc.com/fiche/PB00151458.html
   - boitier moyen tour: http://www.ldlc.com/fiche/PB00118791.html
   - adaptateur interne lecteur carte SD
-  - http://www.espruino.com/
-  - http://tessel.io/
-  - http://www.pcduino.com
+- http://www.espruino.com/
+- http://tessel.io/
+- http://www.pcduino.com
 
 - revoir les 4 PC du lab (+ de ram) 
 - Routeur Wifi 4 port Cisco pour Connexion réseau wifi EESAB - http://www.ldlc.com/fiche/PB00116653.html
