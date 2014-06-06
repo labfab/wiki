@@ -16,16 +16,16 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - maintenance & entretien machines
 
 ### aprem
-- 14h/15h: Lucie L 5D
-- 15h/16h: Lucie L 5D
+- 14h/15h: 
+- 15h/16h: 
 - 16h/17h: 
 - 17h/18h:
 
 ## mardi
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: Phillipe Pacotte (4 pièces imprimante PRUSA)
-- 11h/12h: Phillipe Pacotte
+- 10h/11h: 
+- 11h/12h: 
 - 12h/13h: 
 - 13h/14h:
 
@@ -38,42 +38,42 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ## mercredi
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h:Mathilde 3D 
-- 11h/12h:Mathilde 3D
+- 10h/11h: 
+- 11h/12h:
 - 12h/13h: 
-- 13h/14h: Gwenaël Prost 5D
+- 13h/14h: 
 
 ### aprem
 - 14h/15h:
-- 15h/16h:juliette 1A
+- 15h/16h:
 - 16h/17h:
 - 17h/18h:
 
 ## jeudi
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: Mathilda De La Santa Rosa 3D
-- 11h/12h: Mathilda De La Santa Rosa 3D
-- 12h/13h: Mathilda De La Santa Rosa 3D
-- 13h/14h: Mathilda De La Santa Rosa 3D
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h: 
 
 ### aprem
-- 14h/15h:juliette 1a
-- 15h/16h: Etienne Szinte 5D
-- 16h/17h: Etienne Szinte 5D
-- 17h/18h: Etienne Szinte 5D
+- 14h/15h:
+- 15h/16h: 
+- 16h/17h: 
+- 17h/18h: 
 
 ## vendredi
 *Attention:* à partir du moi d'avril, les créneaux horaires sont réservés au public
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: thomas rouxeville
-- 11h/12h: thomas rouxeville
+- 10h/11h: Yves Le Chevalier
+- 11h/12h: Yves Le Chevalier
 - 12h/13h: 
 - 13h/14h:
 
 ### aprem
-- 14h/15h:juliette 1a
+- 14h/15h:
 - 15h/16h:
 - 16h/17h:
 - 17h/18h:
@@ -99,8 +99,8 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ### matin
 - maintenance & entretien machines
 ### aprem
-- 14h/15h: Rémi 5D
-- 15h/16h: Rémi 5D
+- 14h/15h: 
+- 15h/16h: 
 - 16h/17h: 
 - 17h/18h:
 
@@ -121,8 +121,8 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ## mercredi
 ### matin 
 - 9h/10h: 
-- 10h/11h:Rémi 5D 
-- 11h/12h: Rémi 5D
+- 10h/11h:
+- 11h/12h: 
 - 12h/13h: 
 - 13h/14h:
 
@@ -134,11 +134,11 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 
 ## jeudi
 ### matin 
-- 9h/10h: Mathilde 3D
-- 10h/11h: Juliette 1A
-- 11h/12h: Mathilde 3D
-- 12h/13h: Mathilde 3D
-- 13h/14h:Mathilde 3D 
+- 9h/10h: 
+- 10h/11h: 
+- 11h/12h: 
+- 12h/13h: 
+- 13h/14h: 
 
 ### aprem
 - 14h/15h: 
@@ -150,22 +150,22 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 *Attention:* à partir d'avril 2014, les créneaux horaires du vendredi sont réservés au public
 ### matin 
 - 9h/10h: 
-- 10h/11h: Juliette 1A
+- 10h/11h: 
 - 11h/12h: 
-- 12h/13h: florent archi
+- 12h/13h: 
 - 13h/14h: 
 
 ### aprem
-- 14h/15h: Adrien 
-- 15h/16h: Adrien
-- 16h/17h: Adrien
-- 17h/18h: Adrien
+- 14h/15h:  
+- 15h/16h: 
+- 16h/17h: 
+- 17h/18h: 
 
 ## Samedi
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: jeremy archi 
-- 11h/12h: jeremy archi
+- 10h/11h:  
+- 11h/12h: 
 - 12h/13h: 
 - 13h/14h:
 
