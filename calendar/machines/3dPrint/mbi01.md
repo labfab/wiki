@@ -69,8 +69,8 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - 9h/10h: nom - section
 - 10h/11h: Yves Le Chevalier
 - 11h/12h: Yves Le Chevalier
-- 12h/13h: 
-- 13h/14h:
+- 12h/13h: Florian Godineau
+- 13h/14h:Florian Godineau
 
 ### aprem
 - 14h/15h:
