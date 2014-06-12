@@ -1,2 +1,2 @@
-    Semaine 23 -Vendredi 6 juin
-    LabFab ouvert au public.
+    Semaine 24 -Jeudi 12 juin
+    LabFab fermé au public.
