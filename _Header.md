@@ -1,2 +1,3 @@
-    Semaine 24 -Jeudi 12 juin
-    LabFab fermé au public.
+    Semaine 24 -Vendredi 13 juin
+    LabFab ouvert au public.
+    Merci de préciser "LabFab" sur vos tickets de Loto.
