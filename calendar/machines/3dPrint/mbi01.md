@@ -38,16 +38,16 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ## mercredi
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: LYSIANE 3D 
-- 11h/12h:LYSIANE 3D 
-- 12h/13h:LYSIANE 3D  
-- 13h/14h: LYSIANE 3D 
+- 10h/11h: 
+- 11h/12h:
+- 12h/13h: 
+- 13h/14h: 
 
 ### aprem
-- 14h/15h:LYSIANE 3D 
-- 15h/16h:LYSIANE 3D 
-- 16h/17h:LYSIANE 3D 
-- 17h/18h:LYSIANE 3D 
+- 14h/15h:
+- 15h/16h:
+- 16h/17h:
+- 17h/18h:
 
 ## jeudi
 ### matin 
