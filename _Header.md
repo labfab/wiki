@@ -1,3 +1,2 @@
-    Semaine 24 -Vendredi 13 juin
+    Semaine 24 -Samedi 14 juin
     LabFab ouvert au public.
-    Merci de préciser "LabFab" sur vos tickets de Loto.
