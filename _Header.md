@@ -1,2 +1,2 @@
-    Semaine 24 -Samedi 14 juin
-    LabFab ouvert au public.
+    Semaine 24 -Mardi 17 juin
+    LabFab fermé au public.
