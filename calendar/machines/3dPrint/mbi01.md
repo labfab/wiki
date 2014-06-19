@@ -149,12 +149,11 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 ## vendredi
 *Attention:* à partir d'avril 2014, les créneaux horaires du vendredi sont réservés au public
 ### matin 
-- 9h/10h: 
-- 10h/11h: 
-- 11h/12h: 
+- 9h/10h: Tudi (Lab)
+- 10h/11h: Tudi (Lab)
+- 11h/12h: Tudi (Lab)
 - 12h/13h: 
 - 13h/14h: 
-
 ### aprem
 - 14h/15h:  
 - 15h/16h: 
