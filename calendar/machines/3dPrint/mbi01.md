@@ -67,10 +67,10 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 *Attention:* à partir du moi d'avril, les créneaux horaires sont réservés au public
 ### matin 
 - 9h/10h: nom - section
-- 10h/11h: Yves Le Chevalier
-- 11h/12h: Yves Le Chevalier
-- 12h/13h: Florian Godineau
-- 13h/14h:Florian Godineau
+- 10h/11h: Olivier Rondeau
+- 11h/12h: Olivier ROndeau
+- 12h/13h: Olivier ROndeau
+- 13h/14h: Olivier ROndeau
 
 ### aprem
 - 14h/15h:
