@@ -1,2 +1,2 @@
-    Semaine 25 -Vendredi 20 juin
-    LabFab ouvert au public.
+    Semaine 26 -Mardi 24 juin
+    LabFab fermé au public.
