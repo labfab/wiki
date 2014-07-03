@@ -1,2 +1,2 @@
-    Semaine 26 -Mardi 24 juin
+    Semaine 26 - Jeudi 3 juillet 
     LabFab fermé au public.
