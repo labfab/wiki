@@ -9,6 +9,6 @@ photo de la Portix du Lab
 
 photo d'une grosse fraiseuse.
 
-Pour utiliser celle du lab, vous devrez [lire cette page de manuel](bfc/rtfm/cnc/Fraiseuse), puis [réserver du temps machine dans le calendrier](calendar/machines/Home).
+Pour utiliser celle du lab, vous devrez [lire cette page de manuel](/bfc/rtfm/cnc/Fraiseuse), puis [réserver du temps machine dans le calendrier](/calendar/machines/Home).
 
 
