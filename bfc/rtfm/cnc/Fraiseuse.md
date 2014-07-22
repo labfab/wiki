@@ -1,5 +1,7 @@
 # Fraiseuse à commande numérique
 
+# Aperçu
+Celle du lab est une machine de marque "Portix", récupérée dans un lycée professionnel et dont nous avons remplacé l'électronique de commande par une carte Open Source Hardware, la Smoothieboard (la même que l'on retrouve sur certaines imprimantes 3D de type RepRap).
 
 
 photo de la Portix du Lab
