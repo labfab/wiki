@@ -14,8 +14,9 @@ La dimension **maximale** de travail est de **130 x 130 mm**.
 Pour l'utiliser, il vous faudra, en fonction de vos besoins:
 - un logiciel de dessin vectoriel, du type **Inkscape**, qui permettra de modeliser en 2D votre projet.
 - le logiciel **Cutecom**, qui sert à convertir le fichier .ngc obtenu auparavant via Inkscape, en fichier gcode, format qu’interprète la machine.
-- éventuellement le logiciel "Pronterface", pour celles et ceux qui voudraient une alternative de choix, ou s'engager plus à fond dans le paramétrage de la machine. Il ne sera pas nécessaire à vos premières gravures.
+- une fraise adaptée à votre projet. Graver du métal ou du bois ne nécessite pas le même type de fraise.
 - des matériaux (bois, métaux, acrylique, vinyl, PVC, etc.)
+- éventuellement le logiciel "Pronterface", pour celles et ceux qui voudraient une alternative de choix, ou s'engager plus à fond dans le paramétrage de la machine. Il ne sera pas nécessaire à vos premières gravures.
 
 ## Warning !
 
