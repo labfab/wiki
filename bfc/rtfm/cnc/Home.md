@@ -9,6 +9,6 @@ photo de la Portix du Lab
 
 photo d'une grosse fraiseuse.
 
-# Aperçu
-Celle du lab est une machine de marque "Portix", récupérée dans un lycée professionnel et dont nous avons remplacé l'électronique de commande par une carte Open Source Hardware, la Smoothieboard (la même que l'on retrouve sur certaines imprimantes 3D de type RepRap).
+Pour utiliser celle du lab, vous devrez [lire cette page de manuel](bfc/rtfm/cnc/Fraiseuse), puis [réserver du temps machine dans le calendrier](calendar/machines/Home).
+
 
