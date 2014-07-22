@@ -1,2 +1,2 @@
-    Semaine 26 - Mardi 15 juillet 
+    Semaine 26 - Mardi 22 juillet 
     LabFab fermé au public.
