@@ -52,7 +52,7 @@ Il suffit simplement de déconnecter le câble USB**.
 CuteCom est un petit logiciel (API???) qui sert de transfert entre le .ngc créé par Inkscape et la CNC
     - Commencer par choisir le **Device** c'est la liaison série entre votre CNC et le PC.
 Ce doit être /dev/ttyACM0. Le Baud rate doit être à : 9600
-    - Ensuite vous cliquez sur Open device en haut à gauche, et c'est tout.
+    - Ensuite vous cliquez sur Open device en haut à gauche, et c'est tout. Un petit message Smoothie devrait vous confirmer la liaison entre les 2 appareils.
 - Tester le fonctionnement en écrivant dans la fenêtre input en bas **M3** (cela devrait mettre en route votre moteur) Puis taper **M5** pour l'éteindre.
 
 ## Lancer la gravure
