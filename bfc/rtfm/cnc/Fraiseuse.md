@@ -57,6 +57,10 @@ Ce doit être /dev/ttyACM0. Le Baud rate doit être à : 9600
 
 ## Lancer la gravure
 
+- Reprendre le logiciel Cutcom utilisé plus avant pour ouvrir le fichier .ngc créé précédemment.
+- **send file** en bas à gauche permet de sélectionner votre fichier .
+- c'est parti.
+
 ## Changer les outils
 Il vous faut 2 clés plates : 10 et 13 mm.
 Maintenir le [mandrin](http://fr.wikipedia.org/wiki/Mandrin) avec la clé de 13 et avec la clé de 10 vous tournez dans le sens horaire pour desserrer et antihoraire pour serrer.
