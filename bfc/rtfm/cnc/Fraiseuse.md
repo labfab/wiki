@@ -30,7 +30,14 @@ Il suffit simplement de déconnecter le câble USB**.
 - Lancer [Inkscape](www.inkscape.org/fr/)
 - avant de commencer, nous allons fixer les unités utilisées par défaut avec le raccourci clavier **MAJ + CTRL + D** ou par le menu **Fichier > Propriété du document**. Choisir "mm" si vous voulez travailler en millimètre.
 
-- Nous allons faire un texte à l'intérieur d'un cercle pour notre exemple. La particularité est qu'il ne s'agit pas par défaut d'un chemin exploitable. Il va falloir convertir en chemin vectoriel la police de caractère pour que la CNC puisse travailler correctement. Pour ce faire, sélectionner vos objets, puis dans le menu, **Chemin > Objet en chemin**. Votre police de caractère est ainsi converti. Même chose pour le cercle si vous voulez transformer les contours en deux traits: **Chemin > Contours en chemin**.
+- Nous allons faire un texte à l'intérieur d'un cercle pour notre exemple. La particularité est qu'il ne s'agit pas par défaut d'un chemin exploitable. Il va falloir convertir en chemin vectoriel la police de caractère pour que la CNC puisse travailler correctement. Pour ce faire, sélectionner vos objets, puis dans le menu, **Chemin > Objet en chemin**. Votre police de caractère est ainsi converti. Même chose pour le cercle si vous voulez transformer les contours en deux traits: **Chemin > Contour en chemin**
+
+- Une fois votre objet converti, nous allons utiliser une extension qui permet de générer automagiquement le fichier nécessaire à la suite de notre exemple.
+- La première étape est déjà faite, il suffit de fixer notre objet sur le calque 1. Utilisez le petit cadenas en bas à gauche pour ce faire. Vous protégerez ainsi votre premier calque de toutes modifications.
+- Ensuite, nous allons créer un second calque: **Calque > Ajouter un calque** ou **MAJ + CTRL + N**. Vous pouvez le nommer comme bon vous semble, nous l'appellerons "drill" dans notre cas.
+
+
+
 
 
 
