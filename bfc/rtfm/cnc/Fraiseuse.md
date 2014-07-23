@@ -59,10 +59,16 @@ Ce doit être /dev/ttyACM0. Le Baud rate doit être à : 9600
 
 ## Changer les outils
 Il vous faut 2 clés plates : 10 et 13 mm.
-Maintenir le [mandrin](http://fr.wikipedia.org/wiki/Mandrin) avec la clé de 13 et avec la clé de 10 vous tournez dans le sens antihoraire.
+Maintenir le [mandrin](http://fr.wikipedia.org/wiki/Mandrin) avec la clé de 13 et avec la clé de 10 vous tournez dans le sens horaire pour desserrer et antihoraire pour serrer.
 Vous ôtez l'écrou qui sert l'outil dans le mandrin.
 Puis vous changez votre outil.
 La queue des outils utilisable avec le mandrin sur la CNC sont de diamètre 3.17 mm
+
+## Mettre en place sa plaque
+Il vous faut 2 tailles de clé 6 Pans mâle (Allen) : du 4 et du 5 mm
+Les 2 vis de serrage servent à déplacer les mords de blocage de votre pièce, vous allez faire le blocage grossièrement.
+La vis 6 pans de 5 mm vous sert pour le maintien fin.
+
 
 
 
