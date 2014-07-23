@@ -84,4 +84,6 @@ La vis 6 pans de 5 mm vous sert pour le maintien fin.
 - Agrandir la fenêtre (à droite de la machine) permettant de régler manuellement le déplacement sur X
 - Matérialiser visuellement les 3 axes : X, Y, Z
 
-
+Tchoupi say : le .ngc n'est pas bien expliqué au début.
+Le passage svg to ngc est nébuleux ...???////..??
+Il est expliqué plus bas . A reformuler ??
