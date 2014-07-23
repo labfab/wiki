@@ -46,23 +46,32 @@ Il suffit simplement de déconnecter le câble USB**.
 - Enfin, **Extensions > GCode Tools > Path to Gcode**. Dans l'onglet "preferences", nommez le fichier qui sera généré, ainsi que son destination finale dans vos répertoires. Sélectionner pour finir le premier onglet "Path to G Code" avant d'**Appliquer** et **Fermer**. Votre fichier .gnc est prêt. Vous remarquerez les petites flèches apparaissant sur votre projet. Elles illustrent le déplacement de la tête de fraisage.
 
 ## Mettre en route la machine
-- L'interrupteur se trouve sur la gauche du chassis.
-- brancher l'usb sur le pc. Vous devriez voir apparaître sur votre bureau un nouveau périphérique, nommé "MyLinuxLive" dans notre cas, et contenant les fichiers de configuration de la carte électronique.
+- L'interrupteur se trouve sur la gauche du châssis.
+- Brancher l'usb sur le pc. Vous devriez voir apparaître sur votre bureau un nouveau périphérique, nommé "MyLinuxLive" dans notre cas, et contenant les fichiers de configuration de la carte électronique.
 - Installer puis lancer le logiciel CuteCom : [CuteCom](http://cutecom.sourceforge.net/)
 CuteCom est un petit logiciel (API???) qui sert de transfert entre le .ngc créé par Inkscape et la CNC
--- Commencer par choisir le **Device** c'est la liaison série entre votre CNC et le PC.
+    - Commencer par choisir le **Device** c'est la liaison série entre votre CNC et le PC.
 Ce doit être /dev/ttyACM0. Le Baud rate doit être à : 9600
--- Ensuite vous cliquez sur Open device en haut à gauche, et c'est tout.
-- Tester le fonctionnement en écrivant dans la fenêtre input en bas **M3** (cela devrait mettre en route votre moteur
+    - Ensuite vous cliquez sur Open device en haut à gauche, et c'est tout.
+- Tester le fonctionnement en écrivant dans la fenêtre input en bas **M3** (cela devrait mettre en route votre moteur) Puis taper **M5** pour l'éteindre.
 
 ## Lancer la gravure
+
+## Changer les outils
+Il vous faut 2 clés plates : 10 et 13 mm.
+Maintenir le [mandrin](http://fr.wikipedia.org/wiki/Mandrin) avec la clé de 13 et avec la clé de 10 vous tournez dans le sens antihoraire.
+Vous ôtez l'écrou qui sert l'outil dans le mandrin.
+Puis vous changez votre outil.
+La queue des outils utilisable avec le mandrin sur la CNC sont de diamètre 3.17 mm
 
 
 
 # Todo
 
 - Ajouter au chassie un bouton d'arrêt d'urgence sur l'USB.
-- Faire une sauvegarde des fichiers configuration du firmware smoothieboard
-
+- Faire une sauvegarde des fichiers configuration qui fonctionnent du firmware smoothieboard.
+- Réaliser un blocage en Z car **NOTRE** machine a tendance à avoir le moteur qui descend tout seul avec les vibrations, et du coup cela creuse plus que prévue dans votre matière.
+- Agrandir la fenêtre (à droite de la machine) permettant de régler manuellement le déplacement sur X
+- Matérialiser visuellement les 3 axes : X, Y, Z
 
 
