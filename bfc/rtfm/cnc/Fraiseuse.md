@@ -27,6 +27,10 @@ Il suffit simplement de déconnecter le câble USB**.
 
 
 ## Préparer son fichier source
+- Lancer [Inkscape](www.inkscape.org/fr/)
+- avant de commencer, nous allons fixer les unités utilisées par défaut avec le raccourci clavier **MAJ + CTRL + D** ou par le menu **Fichier > Propriété du document**. Choisir "mm" si vous voulez travailler en millimètre.
+
+- Nous allons faire un texte à l'intérieur d'un cercle pour notre exemple. La particularité est qu'il ne s'agit pas par défaut d'un chemin exploitable. Il va falloir convertir en chemin vectoriel la police de caractère pour que la CNC puisse travailler correctement. Pour ce faire, sélectionner vos objets, puis dans le menu, **Chemin > Objet en chemin**. Votre police de caractère est ainsi converti. Même chose pour le cercle si vous voulez transformer les contours en deux traits: **Chemin > Contours en chemin**.
 
 
 
