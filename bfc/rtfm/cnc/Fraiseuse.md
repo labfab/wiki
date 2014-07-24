@@ -35,14 +35,14 @@ Il suffit simplement de déconnecter le câble USB**.
 
 - Une fois votre objet converti, nous allons utiliser une extension qui permet de générer automagiquement le fichier nécessaire à la suite de notre exemple.
 - La première étape est déjà faite, il suffit de fixer notre objet sur le calque 1. Utilisez le petit cadenas en bas à gauche pour ce faire. Vous protégerez ainsi votre premier calque de toutes modifications.
-- Ensuite, nous allons créer un second calque: **Calque > Ajouter un calque** ou **MAJ + CTRL + N**. Vous pouvez le nommer comme bon vous semble, nous l'appellerons "gcode" dans notre cas.
+- Ensuite, nous allons créer un second calque: **Calque > Ajouter un calque** ou **MAJ + CTRL + N**. Vous pouvez le nommer comme bon vous semble, nous l'appellerons "gcode" dans notre cas car il sert pour la création du Gcode.
 - Pour créer le fichier, rendez-vous dans l'onglet **Extensions > GCode Tools > Orientation Points**.
   - choisir 2 points mode
   - **Z surface** correspond à l'origine, **Z depth** à la profondeur. Cela correspond au déplacement vertical de la fraise. Plus vous voudrez attaquer le matériau en profondeur, plus votre **Z Depth** sera important.
   - **Units** en mm
   - **Appliquer** puis **Fermer**
 
-- Ensuite, **Extensions > GCode Tools > Tools Library**. Ici, on va selectionner quel type d'outil nous allons utiliser. Vous pourrez en effet utiliser différent type de fraise selon votre matériau. Nous utiliserons dans notre exemple l'outil "cone" puis **Appliquer** et **Fermer**. Sur votre calque apparaît  alors un cadre contenant des paramètres générés automatiquement. Ce calque ne sera pas gravé, seul le premier sera pris en compte. Vous pourrez toutefois modifier quelques paramètres de vitesse de rotation ou de diamètre de fraise par exemple.
+- Ensuite, **Extensions > GCode Tools > Tools Library**. Ici, on va sélectionner quel type d'outil nous allons utiliser. Vous pourrez en effet utiliser différent type de fraise selon votre matériau. Nous utiliserons dans notre exemple l'outil "cone" puis **Appliquer** et **Fermer**. Sur votre calque apparaît  alors un cadre contenant des paramètres générés automatiquement. Ce cadre ne sera pas gravé, seul le calque sera pris en compte. Vous pourrez toutefois modifier quelques paramètres de vitesse de rotation ou de diamètre de fraise par exemple.
 
 - Enfin, **Extensions > GCode Tools > Path to Gcode**. Dans l'onglet "preferences", nommez le fichier qui sera généré, ainsi que son destination finale dans vos répertoires. Sélectionner pour finir le premier onglet "Path to G Code" avant d'**Appliquer** et **Fermer**. Votre fichier .gnc est prêt. Vous remarquerez les petites flèches apparaissant sur votre projet. Elles illustrent le déplacement de la tête de fraisage.
 
