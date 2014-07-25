@@ -1,2 +1,2 @@
-    Semaine 26 - Mardi 22 juillet 
-    LabFab fermé au public.
+    Semaine 30 - Vendredi 25 juillet 
+    LabFab ouvert au public.
