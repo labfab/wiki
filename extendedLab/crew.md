@@ -8,4 +8,4 @@ Thomas Meghe - Lab manager
 
 Corentin Le Bris - Moniteur Lab
 
-Corentin Derbré - Inforgaphie 3D Lab
+[Corentin Derbré](http://corentinderbre.com/) - Inforgaphie 3D Lab
