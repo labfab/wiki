@@ -1,3 +1,5 @@
+Equipe du LabFab:
+
 John Lejeune - Responsable Lab
 
 Hugues Aubin - Développement numérique
