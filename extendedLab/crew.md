@@ -1,4 +1,4 @@
-Equipe du LabFab:
+**Equipe du LabFab:**
 
 John Lejeune - Responsable Lab
 
