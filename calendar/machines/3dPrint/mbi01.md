@@ -26,8 +26,8 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - 9h/10h: nom - section
 - 10h/11h: 
 - 11h/12h: 
-- 12h/13h: 
-- 13h/14h:
+- 12h/13h: Gwen(07 oct)
+- 13h/14h:Gwen (07 oct)
 
 ### aprem
 - 14h/15h:
@@ -40,14 +40,14 @@ Les réservations s'étalent sur 2 semaines alternées. Mais au fait, [quelle se
 - 9h/10h: nom - section
 - 10h/11h: 
 - 11h/12h:
-- 12h/13h: 
-- 13h/14h: 
+- 12h/13h: Gwen & Rémi(08 oct)
+- 13h/14h: Gwen & Rémi(08 oct)
 
 ### aprem
-- 14h/15h:
-- 15h/16h:
-- 16h/17h:
-- 17h/18h:
+- 14h/15h: Gwen & Rémi(08 oct)
+- 15h/16h: Gwen & Rémi(08 oct)
+- 16h/17h: Gwen & Rémi(08 oct)
+- 17h/18h: Gwen & Rémi(08 oct)
 
 ## jeudi
 ### matin 
